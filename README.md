@@ -2,15 +2,7 @@
 
 A Flutter GetX restful API make up e-store.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-05-29 125041](https://github.com/GisoreB/beauty_bazaar_app_project/assets/144854877/6b7f7e03-d0a7-4950-a5b5-d9cf1d4700ce)
+![Screenshot 2024-05-29 125126](https://github.com/GisoreB/beauty_bazaar_app_project/assets/144854877/89ea8dd5-b4c0-4818-9821-c86b27e52fa1)
